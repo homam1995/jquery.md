@@ -34,16 +34,16 @@ If you want to create custom build or help with jQuery development, it would be 
 npm install -g grunt-cli
 Make sure you have grunt installed by testing:
 ```
--- grunt -V
+grunt -V
 ```
 
 Now by running the grunt command, in the jquery directory, you can build a full version of jQuery, just like with an npm run build command:
 ```
---grunt
+grunt
 ```
 There are many other tasks available for jQuery Core:
 ```
---grunt -help
+grunt -help
 ```
 
 
