@@ -18,5 +18,32 @@ For Windows, you have to download and install git and Node.js.
 
 macOS users should install Homebrew. Once Homebrew is installed, run brew install git to install git, and brew install node to install Node.js.
 
-Linux/BSD users should use their appropriate package managers to install git and Node.js, or build from source if you swing that way. Easy-peasy.
+Linux/BSD users should use their appropriate package managers to install git and Node.js, or build from source if you swing that way. Easy-peasy. 
+
+
+# How to build your own jQuery
+First, clone the jQuery git repo.
+
+Then, enter the jquery directory and run the build script:
+
+cd jquery && npm run build
+The built version of jQuery will be put in the dist/ subdirectory, along with the minified copy and associated map file.
+
+If you want to create custom build or help with jQuery development, it would be better to install grunt command line interface as a global package:
+
+npm install -g grunt-cli
+Make sure you have grunt installed by testing:
+```
+-- grunt -V
+``
+
+Now by running the grunt command, in the jquery directory, you can build a full version of jQuery, just like with an npm run build command:
+
+grunt
+There are many other tasks available for jQuery Core:
+
+grunt -help
+
+
+
 
