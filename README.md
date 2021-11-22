@@ -36,7 +36,7 @@ Make sure you have grunt installed by testing:
 ```
 --
 -- grunt -V
-``
+```
 
 Now by running the grunt command, in the jquery directory, you can build a full version of jQuery, just like with an npm run build command:
 
