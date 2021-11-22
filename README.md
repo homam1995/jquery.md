@@ -25,19 +25,20 @@ Linux/BSD users should use their appropriate package managers to install git and
 First, clone the jQuery git repo.
 
 Then, enter the jquery directory and run the build script:
-
+```
 cd jquery && npm run build
-The built version of jQuery will be put in the dist/ subdirectory, along with the minified copy and associated map file.
+```
+The built version of jQuery will be put in the `dist/` subdirectory, along with the minified copy and associated map file.
 
 If you want to create custom build or help with jQuery development, it would be better to install grunt command line interface as a global package:
 
 npm install -g grunt-cli
-Make sure you have grunt installed by testing:
+Make sure you have `grunt` installed by testing:
 ```
 grunt -V
 ```
 
-Now by running the grunt command, in the jquery directory, you can build a full version of jQuery, just like with an npm run build command:
+Now by running the `grunt` command, in the jquery directory, you can build a full version of jQuery, just like with an npm `run build` command:
 ```
 grunt
 ```
