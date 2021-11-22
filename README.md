@@ -34,6 +34,7 @@ If you want to create custom build or help with jQuery development, it would be 
 npm install -g grunt-cli
 Make sure you have grunt installed by testing:
 ```
+--
 -- grunt -V
 ``
 
