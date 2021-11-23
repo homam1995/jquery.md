@@ -1,3 +1,4 @@
+![12](https://user-images.githubusercontent.com/92294739/143006395-026c79d1-e24a-4a13-aa22-e5d2804314a7.png)
 
 
 
@@ -47,10 +48,5 @@ grunt -help
 # قم بتنزيل مكتبة jquery ، الخطوات كالتالي:
 
 1. بحث https://jquery.com/
-
-![76df67d36c9e4043d5ee860377f9938b](https://user-images.githubusercontent.com/92294739/143004704-10df24a0-f3d3-4fa8-a8a9-4f8c4be1f471.png)
-
-
-
-
+![12](https://user-images.githubusercontent.com/92294739/143007232-a78b23ca-70cf-4aea-8c25-2716c8281d17.JPG)
 
