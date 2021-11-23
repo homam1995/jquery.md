@@ -48,5 +48,6 @@ grunt -help
 # قم بتنزيل مكتبة jquery ، الخطوات كالتالي:
 
 1. بحث https://jquery.com/
-![12](https://user-images.githubusercontent.com/92294739/143007232-a78b23ca-70cf-4aea-8c25-2716c8281d17.JPG)
+2.![12](https://user-images.githubusercontent.com/92294739/143006395-026c79d1-e24a-4a13-aa22-e5d2804314a7.png)
+
 
