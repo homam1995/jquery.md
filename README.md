@@ -44,7 +44,7 @@ There are many other tasks available for jQuery Core:
 ```
 grunt -help
 ```
-قم بتنزيل مكتبة # jquery ، الخطوات كالتالي:
+#قم بتنزيل مكتبة jquery ، الخطوات كالتالي:
 
 1. بحث https://jquery.com/
 
