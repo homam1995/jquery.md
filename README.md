@@ -52,6 +52,9 @@ grunt -help
 - ثم اضغط على Ctrl + s لحفظه في الكمبيوتر ويمكن استخدامه.
 - مكتوب في النهاية: مكتبة jQuery هي في الواقع ملف js خارجي يوسع وظائف JavaScript ، لذا فإن الكود للإشارة إلى مكتبة jQuery على صفحة الويب هو كما يلي:
 - <script src="jQuery/jquery-3.1.1.js" type="text/javascript" ></script>
+- جرب هذا.
+- لضبط لون الخلفية لجميع عناصر على اللون الاحمر
+- $("p").css("backgrond-color","red");
 
 
 
