@@ -50,8 +50,8 @@ grunt -help
 - انقر فوقhttps://code.jquery.com/jquery-3.3.1.min.js
 - ![15](https://user-images.githubusercontent.com/92294739/143201072-118f142c-8d91-4987-9b44-de75712109d7.png)
 - ثم اضغط على Ctrl + s لحفظه في الكمبيوتر ويمكن استخدامه.
--مكتوب في النهاية: مكتبة jQuery هي في الواقع ملف js خارجي يوسع وظائف JavaScript ، لذا فإن الكود للإشارة إلى مكتبة jQuery على صفحة الويب هو كما يلي:
--<script src="jQuery/jquery-3.1.1.js" type="text/javascript" ></script>
+- مكتوب في النهاية: مكتبة jQuery هي في الواقع ملف js خارجي يوسع وظائف JavaScript ، لذا فإن الكود للإشارة إلى مكتبة jQuery على صفحة الويب هو كما يلي:
+- <script src="jQuery/jquery-3.1.1.js" type="text/javascript" ></script>
 
 
 
