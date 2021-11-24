@@ -51,11 +51,12 @@ grunt -help
 
 4.اختر الإصدار الذي تريده.
 
-اخترت الأولى وبدأت للتو في التعلم.
+اخترت الأولى وبدأت للتو في التعلم5.
 
-1. انقر فوقhttps://code.jquery.com/jquery-3.3.1.min.js ；
-2. ![15](https://user-images.githubusercontent.com/92294739/143199420-824ac669-4bbd-4766-bf84-6aaf52275fb0.png)
-ثم اضغط على Ctrl + s لحفظه في الكمبيوتر ويمكن استخدامه.
+6. انقر فوقhttps://code.jquery.com/jquery-3.3.1.min.js ；
+7. ![15](https://user-images.githubusercontent.com/92294739/143199420-824ac669-4bbd-4766-bf84-6aaf52275fb0.png)
+8. ثم اضغط على Ctrl + s لحفظه في الكمبيوتر ويمكن استخدامه.
+
 
 
 
