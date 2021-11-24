@@ -54,7 +54,4 @@ grunt -help
 
 
 
-3.![image](https://user-images.githubusercontent.com/92294739/143009052-df0d7206-9f20-4093-b2c0-2cddd80b8e6e.png)
-
-
 
