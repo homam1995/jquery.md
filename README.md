@@ -43,10 +43,10 @@ grunt -help
 ```
 # قم بتنزيل مكتبة jquery ، الخطوات كالتالي:
 - بحث https://jquery.com/
--![12](https://user-images.githubusercontent.com/92294739/143006395-026c79d1-e24a-4a13-aa22-e5d2804314a7.png)
--![13](https://user-images.githubusercontent.com/92294739/143199336-8c03f71a-545f-4338-bf5d-94f004a49d57.png)
--اختر الإصدار الذي تريده
--اخترت الأولى وبدأت للتو في التعلم
+- ![12](https://user-images.githubusercontent.com/92294739/143006395-026c79d1-e24a-4a13-aa22-e5d2804314a7.png)
+- ![13](https://user-images.githubusercontent.com/92294739/143199336-8c03f71a-545f-4338-bf5d-94f004a49d57.png)
+- اختر الإصدار الذي تريده
+- اخترت الأولى وبدأت للتو في التعلم
 - انقر فوقhttps://code.jquery.com/jquery-3.3.1.min.js
 - ![15](https://user-images.githubusercontent.com/92294739/143201072-118f142c-8d91-4987-9b44-de75712109d7.png)
 - ثم اضغط على Ctrl + s لحفظه في الكمبيوتر ويمكن استخدامه.
